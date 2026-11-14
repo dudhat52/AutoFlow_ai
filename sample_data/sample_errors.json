@@ -1,0 +1,23 @@
+[
+  {
+    "workflow_name": "Daily Excel Report",
+    "platform": "power_automate",
+    "status": "failed",
+    "error_code": "FILE_LOCKED",
+    "message": "Excel file is currently locked"
+  },
+  {
+    "workflow_name": "API Data Collection",
+    "platform": "python",
+    "status": "failed",
+    "error_code": "API_TIMEOUT",
+    "message": "API request timed out"
+  },
+  {
+    "workflow_name": "Attendance Processing",
+    "platform": "power_automate",
+    "status": "failed",
+    "error_code": "MISSING_COLUMN",
+    "message": "Required column was not found"
+  }
+]
